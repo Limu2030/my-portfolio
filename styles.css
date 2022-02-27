@@ -21,6 +21,10 @@
   animation-direction: alternate;
   animation-timing-function: ease-in-out;
 }
+.about {
+  color: darkgreen;
+  margin-top: 25px;
+}
 .heading {
   margin-bottom: 10px;
   align-items: center;
