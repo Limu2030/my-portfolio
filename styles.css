@@ -21,6 +21,17 @@
   animation-direction: alternate;
   animation-timing-function: ease-in-out;
 }
+.heading {
+  margin-bottom: 10px;
+  align-items: center;
+  margin-left: 20px;
+  font-style: initial;
+}
+.heading2 {
+  margin-left: 20px;
+  font-style: italic;
+  font-weight: lighter;
+}
 .projectitem {
   display: block;
   list-style-type: none;
