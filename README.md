@@ -26,7 +26,7 @@
 
 ## Licence
 
-[MIT LICENCE](LICENSE)
+[MIT LICENCE](https://github.com/Limu2030/my-portfolio/blob/master/LICENSE)
 
 ## Authors Info
 
