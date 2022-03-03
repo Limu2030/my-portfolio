@@ -1,12 +1,11 @@
-# A Portfolio
+# Portfolio
 
-##### Lillian Muita
+##### by Lillian Muita
 
-## Table of Content
+## Table of Contents
 
 - [Description](#Description)
 - [Technology Used](#technologies-used)
-- [Reference](#reference)
 - [Licence](#licence)
 - [Authors Info](#author-Info)
 
