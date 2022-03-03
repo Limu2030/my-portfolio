@@ -21,5 +21,6 @@ lillian.muita@student.moringaschool.com
 
 ### License
 
-\_MIT
+linc
+MIT
 Copyright (c) {2022}
