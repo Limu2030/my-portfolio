@@ -1,26 +1,33 @@
-# Development Portfolio
+# A Portfolio
 
-####
+##### Lillian Muita
 
-#### By
+## Table of Content
 
-**Lillian Muita**
+- [Description](#Description)
+- [Technology Used](#technologies-used)
+- [Reference](#reference)
+- [Licence](#licence)
+- [Authors Info](#author-Info)
 
 ## Description
 
-This is a brief account of my previous experiences and experiments
+<p>A brief narration about me, my experiences and a collection of my past project</p>
 
 ## Technologies Used
 
-HTML
-CSS
+- HTML - used in the structuring of the webpage
 
-## Support and contact details
+- CSS - used in the styling o the webpage
 
-lillian.muita@student.moringaschool.com
+## Live Link
 
-### License
+#### (https://limu2030.github.io/my-portfolio/)
 
-linc
-MIT
-Copyright (c) {2022}
+## Licence
+
+[MIT LICENCE](LICENSE)
+
+## Authors Info
+
+email: lillian.muita@student.moringaschool.com
